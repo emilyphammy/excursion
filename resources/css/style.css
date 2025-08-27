@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Verdana;
+    display: block;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+a {
+    color:aquamarine;
+    font-size: 16px;
+    display: inline-block;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+#media {
+    display: block;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+}
